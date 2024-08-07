@@ -1,1 +1,1 @@
-This repository is for projects related to digit classification. 
+This repository is for MNIST projects
