@@ -1,1 +1,1 @@
-This repository is for MNIST projects
+Welcome to mnist_ML.
