@@ -77,8 +77,3 @@ Alternatively, install the packages manually:
 2. **Open the `mnist_classification.ipynb` file** from the Jupyter interface.
 
 3. **Run the cells** in the notebook to train and evaluate various machine learning models.
-___
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, feel free to fork the repository, create a new branch, and submit a pull request. You can also open an issue for any bugs or suggestions.
