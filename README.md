@@ -1,6 +1,6 @@
 ### Hi, welcome to mnist_ML
 
-This repository contains a Jupyter Notebook that performs an analysis of several machine learning models for classifying handwritten digits from the MNIST dataset. The analysis explores a variety of models ranging from t-SNE for dimensionality reduction to deep learning with ResNet-9.
+This repository contains my Jupyter Notebook analysis of several machine learning models for classifying handwritten digits from the MNIST dataset. The analysis explores a variety of models ranging from t-SNE for dimensionality reduction to deep learning with ResNet-9.
 
 ## Table of Contents
 - [Overview](#overview)
